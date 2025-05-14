@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on games, research, etc.
 - 🤔 I’m looking for help with employment/grad school or getting into research (almost any discipline)
 - 💬 Ask me about C++, Physics, Philosophy
-
 -⚡Fun facts
   - I want to start non-profits to change the world 🌈🤗❤️
   - I am usually juggling a zillion projects 🙂

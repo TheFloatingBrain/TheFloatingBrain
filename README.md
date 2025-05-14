@@ -19,17 +19,18 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with employment/grad school or getting into research (almost any discipline)
 - 💬 Ask me about C++, Physics, Philosophy
 -⚡ Fun facts:
-  - I want to start no profits to change the world 🌈🤗❤️
+  - I want to start non-profits to change the world 🌈🤗❤️
   - I am usually juggling a zillion projects 🙂
-  - Im a pacifist ☮️🕊️✌️😄
+  - Im a pacifist ☮️🕊️✌️🌹😄
 - 📫 How to reach me: Open an [issue](https://github.com/TheFloatingBrain/TheFloatingBrain)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"> <img src="https://www.raylib.com/common/img/raylib_logo.png" alt="raylib" width="40" height="40"/> </a>
 <a href="https://github.com/raysan5/raylib/blob/master/src/rlgl.h" target="_blank" rel="noreferrer"> <img src="https://www.raylib.com/images/extralibs/rlgl_128x128.png" alt="rlgl" width="40" height="40"/> </a>

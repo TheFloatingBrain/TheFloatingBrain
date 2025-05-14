@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 </p>
 
 
-- I only encourage the ethical/peacfull use of technology
+- I only encourage the ethical/peacfull use of technologies
 - Dont train AI on my work without my express permission 🙅

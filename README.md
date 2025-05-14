@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/plotly/plotly-original-wordmark.svg" alt="plotly" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="rust" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
@@ -51,7 +53,7 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/JSON" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/json/json-original.svg" alt="json" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/YAML" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://podman.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/podman/podman-original-wordmark.svg" alt="podman" width="40" height="40"/></a>
+<a href="https://podman.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/podman/podman-original.svg" alt="podman" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>

@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++, Physics, Philosophy
 - ⚡ Fun fact: I want to start no profits to change the world 🌈🤗❤️ and I am usually juggling a zillion projects 🙂
 - 📫 How to reach me: Open an [issue](https://github.com/TheFloatingBrain/TheFloatingBrain)
+
+
+Dont train AI on my work without my express permission 🙅

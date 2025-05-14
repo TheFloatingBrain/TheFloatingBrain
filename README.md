@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on games, research, etc.
 - 🤔 I’m looking for help with employment/grad school
 - 💬 Ask me about C++, Physics, Philosophy
-- ⚡ Fun fact: I want to start no profits to change the world 🌈🤗❤️
+- ⚡ Fun fact: I want to start no profits to change the world 🌈🤗❤️ and I am usually juggling a zillion projects 🙂
 - 📫 How to reach me: Open an [issue](https://github.com/TheFloatingBrain/TheFloatingBrain)

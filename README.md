@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on games, research, etc.
 - 🤔 I’m looking for help with employment/grad school or getting into research (almost any discipline)
 - 💬 Ask me about C++, Physics, Philosophy
-- ⚡ Fun fact: I want to start no profits to change the world 🌈🤗❤️ and I am usually juggling a zillion projects 🙂
+#⚡ Fun facts:
+  - I want to start no profits to change the world 🌈🤗❤️
+  - I am usually juggling a zillion projects 🙂
+  - Im a pacifist ☮️🕊️✌️😄
 - 📫 How to reach me: Open an [issue](https://github.com/TheFloatingBrain/TheFloatingBrain)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +30,10 @@ Here are some ideas to get you started:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> </a>
-<a href="https://www.raylib.com/" target="_blank" rel="noreferrer"> <img src="https://www.raylib.com/index.html" alt="raylib" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.raylib.com/" target="_blank" rel="noreferrer"> <img src="https://www.raylib.com/common/img/raylib_logo.png" alt="raylib" width="40" height="40"/> </a>
+<a href="https://github.com/raysan5/raylib/blob/master/src/rlgl.h" target="_blank" rel="noreferrer"> <img src="https://www.raylib.com/images/extralibs/rlgl_128x128.png" alt="rlgl" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -43,4 +49,5 @@ Here are some ideas to get you started:
 
   
 </p>
-Dont train AI on my work without my express permission 🙅
+- Please only technologies ethical/peacfully
+- Dont train AI on my work without my express permission 🙅

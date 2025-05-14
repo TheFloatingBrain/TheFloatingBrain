@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with employment/grad school or getting into research (almost any discipline)
 - 💬 Ask me about C++, Physics, Philosophy
 - ⚡Fun facts
-  - I want to start non-profits to change the world 🌈🤗❤️
+  - I want to start non-profits to change da' wurld 🌈🤗❤️
   - I am usually juggling a zillion projects 🙂
   - Im a pacifist ☮️🕊️✌️🌹😄
 - 📫 How to reach me: Open an [issue](https://github.com/TheFloatingBrain/TheFloatingBrain)
